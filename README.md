@@ -29,7 +29,7 @@ Cukup jawab 10 pertanyaan, dan sistem akan menganalisis tipe kamu (Techy, Elegan
 ## 💡 Cara Menjalankan
 1. **Clone repositori ini**
    ```bash
-   git clone https://github.com/username/test-your-font.git
+   git clone https://github.com/rahmdscience/test-your-font.git
 2. Buka file index.html langsung di browser.
 3. Mulai kuis dan lihat hasilnya!
 
